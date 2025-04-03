@@ -10,13 +10,19 @@
   📚 Constantly learning and improving my skills in <b>MERN stack & Tailwind CSS</b>.  
 </p>
 
+## 🚀 About Me  
+Hi, I'm **Ansh Vaghela**, a passionate **Frontend Developer** with expertise in **React.js, JavaScript, and UI/UX**.  
+I enjoy crafting **interactive & scalable web applications** and constantly learning new technologies.  
+
+
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshvaghela&show_icons=true&theme=react" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshvaghela&theme=react" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshvaghela-dev&show_icons=true&theme=react" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshvaghela-dev&theme=react" />
 </p>
+
 
 ---
 
@@ -39,17 +45,19 @@
 
 ---
 
-## 🏆 GitHub Contribution Graph:
 <p align="center">
-  <img src="https://github.com/anshvaghela/anshvaghela/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/anshvaghela-dev/anshvaghela-dev/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
 ## 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh4o/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-5j20.onrender.com/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshvaghela941@gmail.com)
+<p align="center">
+  <a href="(https://www.linkedin.com/in/ansh4o/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="(https://portfolio-5j20.onrender.com/)"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="mailto:anshvaghela941@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
