@@ -10,9 +10,6 @@
   📚 Constantly learning and improving my skills in <b>MERN stack & Tailwind CSS</b>.  
 </p>
 
-## 🚀 About Me  
-Hi, I'm **Ansh Vaghela**, a passionate **Frontend Developer** with expertise in **React.js, JavaScript, and UI/UX**.  
-I enjoy crafting **interactive & scalable web applications** and constantly learning new technologies.  
 
 
 ---
@@ -45,9 +42,6 @@ I enjoy crafting **interactive & scalable web applications** and constantly lear
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anshvaghela-dev/anshvaghela-dev/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 ---
