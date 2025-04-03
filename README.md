@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ansh Vaghela! 👋</h1>
 
-<!--
-**anshvaghela-dev/anshvaghela-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Frontend Developer | React.js | JavaScript | UI/UX Enthusiast  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Passionate about crafting responsive and dynamic web applications.  
+  ⚡ Love working with <b>React.js, JavaScript, and APIs</b> to build scalable solutions.  
+  📚 Constantly learning and improving my skills in <b>MERN stack & Tailwind CSS</b>.  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshvaghela&show_icons=true&theme=react" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshvaghela&theme=react" />
+</p>
+
+---
+
+## 🚀 Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshvaghela&layout=compact&theme=react" />
+</p>
+
+---
+
+## 🛠 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+## 🏆 GitHub Contribution Graph:
+<p align="center">
+  <img src="https://github.com/anshvaghela/anshvaghela/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect with Me:
+<p align="center">
+  <a href="mailto:anshvaghela941@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Developing-orange" />
+</p>
